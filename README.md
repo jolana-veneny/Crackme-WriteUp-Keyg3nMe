@@ -1,4 +1,4 @@
-# Crackme WriteUp Keyg3nMe
+# Crackme WriteUp: Keyg3nMe
 This is a write-up of a very easy crackme "keyg3nme."
 
 The original crackme is available [here](https://crackmes.one/crackme/5da31ebc33c5d46f00e2c661) in case you would like to follow along.
